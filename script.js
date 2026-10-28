@@ -5,7 +5,7 @@ const CONFIG = {
   // Photos: put image files in the "photos" folder and list them here.
   // If a file is missing, a sunset placeholder is shown instead.
   photos: [
-    { src: "photos/photo1.jpg", caption: "us 💛", tape: "#ffd84d" },
+    { src: "photo1.jpg", caption: "us 💛", tape: "#ffd84d" },
     { src: "photos/photo2.jpg", caption: "that day…", tape: "#6fe3a8" },
     { src: "photos/photo3.jpg", caption: "I miss this", tape: "#7fb4ff" },
   ],
